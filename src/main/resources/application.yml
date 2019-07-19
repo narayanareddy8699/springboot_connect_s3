@@ -5,6 +5,6 @@ server:
 
 amazonProperties:
   endpointUrl: https://s3.ap-south-1.amazonaws.com
-  accessKey: AKIA4QXS5X74C5XFCW6T
-  secretKey: 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
-  bucketName: basic-demo-test
+  accessKey: ***********
+  secretKey: ***********
+  bucketName: **********
